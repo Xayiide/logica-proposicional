@@ -1,0 +1,12 @@
+{ single-line-comment }
+identifier
+identifier9z
+98
+98.12
+
+76.1 + 87.0 - 56 * 8 / 6
+
+if then begin procedure
+
+
+;
