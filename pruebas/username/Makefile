@@ -6,7 +6,7 @@ all:
 	gcc lex.yy.c -o username -lfl
 
 clean:
-	@rm -f username
+	@rm -f username lex.yy.c
 	@echo "clean"
 
 re: clean all
